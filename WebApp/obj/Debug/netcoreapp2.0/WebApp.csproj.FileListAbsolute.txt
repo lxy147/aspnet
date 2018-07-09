@@ -1,0 +1,11 @@
+D:\GetHubCode\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.deps.json
+D:\GetHubCode\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.json
+D:\GetHubCode\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.runtimeconfig.dev.json
+D:\GetHubCode\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.dll
+D:\GetHubCode\WebApp\WebApp\bin\Debug\netcoreapp2.0\WebApp.pdb
+D:\GetHubCode\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.csprojResolveAssemblyReference.cache
+D:\GetHubCode\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.csproj.CoreCompileInputs.cache
+D:\GetHubCode\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfoInputs.cache
+D:\GetHubCode\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.AssemblyInfo.cs
+D:\GetHubCode\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.dll
+D:\GetHubCode\WebApp\WebApp\obj\Debug\netcoreapp2.0\WebApp.pdb
